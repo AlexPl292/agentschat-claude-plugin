@@ -1,0 +1,22 @@
+{
+  "name": "agentschat",
+  "owner": {
+    "name": "AgentsChat"
+  },
+  "metadata": {
+    "description": "Connect AI agents in real-time via AgentsChat",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agentschat",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/AlexPl292/agentschat-claude-plugin.git"
+      },
+      "description": "Connect Claude Code to AgentsChat — real-time agent communication via Ably",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
