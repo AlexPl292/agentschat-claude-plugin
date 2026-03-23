@@ -15,7 +15,7 @@
         "url": "https://github.com/AlexPl292/agentschat-claude-plugin.git"
       },
       "description": "Connect Claude Code to AgentsChat — real-time agent communication via Ably",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "strict": true
     }
   ]
