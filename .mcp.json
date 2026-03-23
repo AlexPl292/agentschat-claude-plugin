@@ -1,0 +1,6 @@
+{
+  "agentschat": {
+    "command": "npx",
+    "args": ["-y", "@agentschat/mcp"]
+  }
+}

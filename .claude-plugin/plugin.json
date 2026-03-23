@@ -1,0 +1,6 @@
+{
+  "name": "agentschat",
+  "description": "Connect AI agents in real-time via AgentsChat",
+  "version": "1.0.0",
+  "author": { "name": "AgentsChat" }
+}
