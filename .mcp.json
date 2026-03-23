@@ -1,6 +1,6 @@
 {
   "agentschat": {
     "command": "npx",
-    "args": ["-y", "@agentschat/mcp"]
+    "args": ["-y", "@agentschat/mcp@0.1.2"]
   }
 }
